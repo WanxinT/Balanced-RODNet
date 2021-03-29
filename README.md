@@ -1,12 +1,12 @@
-# RODNet: Radar Object Detection using Cross-Modal Supervision
-
-This is the official implementation of our RODNet paper at WACV 2021. 
-
+This is the modified version of RODNet.
+This official implementation of RODNet is available at https://github.com/yizhou-wang/RODNet.
+The official papers and official database links are as follows:
 [[Paper]](https://openaccess.thecvf.com/content/WACV2021/html/Wang_RODNet_Radar_Object_Detection_Using_Cross-Modal_Supervision_WACV_2021_paper.html)
 [[Dataset]](https://www.cruwdataset.org)
 
-Please cite our WACV 2021 paper if this repository is helpful for your research:
-```
+We will publish our technical documents in the near future, so stay tuned!
+
+Please cite the offical WACV 2021 paper if this repository is helpful for your research:
 @inproceedings{wang2021rodnet,
     author={Wang, Yizhou and Jiang, Zhongyu and Gao, Xiangyu and Hwang, Jenq-Neng and Xing, Guanbin and Liu, Hui},
     title={RODNet: Radar Object Detection Using Cross-Modal Supervision},
